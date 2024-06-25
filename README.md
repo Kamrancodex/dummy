@@ -1,9 +1,9 @@
 Copy code
 
-```html
+```
 
 npm install
-html```
+
 
 Create a .env file in the root directory and add the necessary environment variables:
 
