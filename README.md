@@ -4,7 +4,7 @@ Copy code
 
 npm install
 
-
+```
 Create a .env file in the root directory and add the necessary environment variables:
 
 env
