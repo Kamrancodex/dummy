@@ -99,9 +99,8 @@ Welcome to the Wallet Management System! This project is a comprehensive web app
    git clone https://github.com/yourusername/wallet-frontend.git
    cd wallet-management-system
    ```
-   Install dependencies:
+   **Install dependencies:**
 
-bash
 Copy code
 
 ```
@@ -111,62 +110,26 @@ npm install
 2. **Create a .env file in the root directory and add the necessary
    environment variables**: env Copy code
 
-````
-REACT_APP_API_URL=http://localhost:8000/api/v1 ```
+```
+REACT_APP_API_URL=http://localhost:8000/api/v1
+```
 
-3. **Start the development server**:
-bash Copy code
+3. **Start the development server:**
+   bash Copy code
 
-````
-
-npm run dev ```
+```
+npm run dev
+```
 
 ### Usage
 
-- **User Authentication**
-
-  - Sign Up
-  - Sign In
-  - Forgot Password
-  - Reset Password
-  - Email and Phone Number Verification
-
-- **Dashboard**
-
-  - Overview of user account
-  - Recent transactions
-  - Balance summary
-
-- **Profile Management**
-
-  - View and update personal information
-  - Upload profile picture
-  - Change password
-  - Verify email and phone number
-
-- **Cards Management**
-
-  - View credit and debit cards
-  - Apply for a new credit card
-  - Add a new debit card
-  - View card details securely
-
-- **Transactions**
-
-  - View transaction history
-  - Filter transactions by date, type, and status
-
-- **Payments**
-
-  - Send money to other users
-  - Request money from other users
-  - Pay using email or phone number
-  - Scan and pay using QR code
-
-- **KYC Verification**
-  - Submit documents for KYC verification
-  - Track KYC status
-
+Usage
+**Sign Up:** Create a new account by providing your email, password, and other required details.
+**Sign In:** Log into your account using your email and password.
+**Dashboard:** View your account balance, recent transactions, and notifications.
+**Manage Wallet:** Transfer and request money, view balance charts.
+**Manage Cards:** Apply for new credit cards, add debit cards, and view card details.
+**Profile Management:** Update your personal information, change your password, and upload a profile picture.
 ### Future Features
 
 - **Cryptocurrency Integration**
@@ -204,16 +167,19 @@ npm run dev ```
 ### Contributing We welcome
 
 contributions to the Wallet Management System. Please follow these steps to
-contribute: Fork the repository. Create a new branch for your feature or bugfix.
-Make your changes and commit them. Push your changes to your fork. Open a pull
-request to the main repository. License This project is licensed under the MIT
-License. See the LICENSE file for more details. Contact If you have any
-questions or suggestions, feel free to reach out: Email: your-email@example.com
-GitHub: yourusername javascript Copy code Replace the placeholders (e.g.,
-`yourusername`, `your-email@example.com`, etc.) with your actual information.
-Once y
+contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and commit them. Push your changes to your fork. Open a pull
+request to the main repository.
+4.License This project is licensed under the MIT
+**License.** See the LICENSE file for more details. Contact If you have any
+questions or suggestions, feel free to reach out: Email: najarkamran212@gmail.com
+
 
 i will be adding more features to this project i have many ideas like somehow incorporating crypto and pay with crypto feature
+
+````
 
 ```
 
